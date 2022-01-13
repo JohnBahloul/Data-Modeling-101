@@ -13,6 +13,7 @@
 
 * [Mock Data Set](https://docs.google.com/spreadsheets/d/1T8-Y0zuK4mWxY6WyD7d_8661Nqc9OhS1gsZKp17iWAc/edit#gid=553297750)
 
+<img width="400" alt="Screen Shot 2022-01-11 at 4 33 03 PM" src="https://user-images.githubusercontent.com/38549059/149413699-512948b0-2fff-447f-8ffb-b3b47828abcb.png">
 
 
 
