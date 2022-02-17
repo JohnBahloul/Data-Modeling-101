@@ -1,4 +1,7 @@
 # Data Modeling Project
+
+Create a Database using SQLITE and populate the database using data pulled from different sources.
+
 ---
 
 #### Resources
